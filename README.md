@@ -1,7 +1,7 @@
 ### Hi there, I'm RyzXD. - aka [Ryz-Code][website]
 
 ## I'm a Developer and Network Admin
-- I'm currently working on a [autoscript-xray][website]
+- I'm currently working on a [autoscript-vps][website]
 
 ### Connect with me:
 
